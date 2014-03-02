@@ -10,11 +10,11 @@ This tool intends to make developer life easier and to simplify the communicatio
 
 Images are better than words, so I let you see what it could offer you :
 
-![MVVM in global](docs/images/mvvm.png MVVM in global)
+![MVVM in global](docs/images/mvvm.png "MVVM in global")
 
-![MVVM in global with injection](docs/images/mvvm-and-injection.png MVVM in global with injection)
+![MVVM in global with injection](docs/images/mvvm-and-injection.png "MVVM in global with injection")
 
-![MVVM in C# with injection](docs/images/mvvm-in-code.png MVVM in C# with injection)
+![MVVM in C# with injection](docs/images/mvvm-in-code.png "MVVM in C# with injection")
 
 ## What is MVVM ?
 

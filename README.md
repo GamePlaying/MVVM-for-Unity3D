@@ -10,11 +10,11 @@ This tool intends to make developer life easier and to simplify the communicatio
 
 Images are better than words, so I let you see what it could offer you :
 
-![Image not currently available](url_de_l'image "texte pour le titre, facultatif")
+![MVVM in global](docs/images/mvvm.png MVVM in global)
 
-![Image not currently available](url_de_l'image "texte pour le titre, facultatif")
+![MVVM in global with injection](docs/images/mvvm-and-injection.png MVVM in global with injection)
 
-![Image not currently available](url_de_l'image "texte pour le titre, facultatif")
+![MVVM in C# with injection](docs/images/mvvm-in-code.png MVVM in C# with injection)
 
 ## What is MVVM ?
 
